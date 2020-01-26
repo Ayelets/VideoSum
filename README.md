@@ -1,5 +1,5 @@
 # VideoSum
-Based on https://github.com/ok1zjf/VASNet
+Based on https://github.com/ok1zjf/VASNet.//
 The original code used videos file after preprosesing, Extract feature manipulation and given key points, 
 as input. For this reason, the system cannot get and new videos as input.
 
